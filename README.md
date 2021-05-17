@@ -36,19 +36,20 @@ Using a multi-tenant model, computing resources are pooled to serve multiple con
 5. And the 5th characteristic, Measured Service, means that you only pay for what you use or reserve as you go; if you’re not using resources, you’re not paying.
 Resource usage is monitored, measured, and reported transparently based on utilization.
 
-
-
-Module 1.c: History & Evolution of Cloud Computing
+## Module 1.c: History & Evolution of Cloud Computing
 Cloud computing is an evolution of technology over time.
 The concept of cloud computing dates to the 1950s when large-scale mainframes with high-volume processing power became available.
 In order to make efficient use of the computing power of mainframes, the practice of time sharing, or resource pooling, evolved.
+
 Using dumb terminals, whose sole purpose was to facilitate access to the mainframes, multiple users were able to access the same data storage layer and CPU power from any terminal.
-In the 1970s, with the release of an operating system called Virtual Machine (VM), it became possible for mainframes to have multiple virtual systems, or virtual machines, on a single physical node.
+>In the 1970s, with the release of an operating system called Virtual Machine (VM), it became possible for mainframes to have multiple virtual systems, or virtual machines, on a single physical node.>
 The virtual machine operating system evolved the 1950s application of shared access of a mainframe by allowing multiple distinct compute environments to exist on the same physical hardware.
-Each virtual machine hosted guest operating systems that behaved as though they had their own memory, CPU, and hard drives, even though these were shared resources.
+
+>Each virtual machine hosted guest operating systems that behaved as though they had their own memory, CPU, and hard drives, even though these were shared resources.
 Virtualization thus became a technology driver and a huge catalyst for some of the biggest evolutions in communications and computing.
 Even 20 years ago, physical hardware was quite expensive.
-With the internet becoming more accessible, and the need to make hardware costs more viable, servers were virtualized into shared hosting environments, virtual private servers, and virtual dedicated servers, using the same types of functionality provided by the virtual machine operating system.
+
+>With the internet becoming more accessible, and the need to make hardware costs more viable, servers were virtualized into shared hosting environments, virtual private servers, and virtual dedicated servers, using the same types of functionality provided by the virtual machine operating system.
 So, for example, if a company needed ‘x’ number of physical systems to run their applications, they could take one physical node and split it into multiple virtual systems.
 This was enabled by hypervisors.
 A hypervisor is a small software layer that enables multiple operating systems to run alongside each other, sharing the same physical computing resources.
