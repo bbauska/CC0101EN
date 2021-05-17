@@ -36,6 +36,16 @@ Using a multi-tenant model, computing resources are pooled to serve multiple con
 5. And the 5th characteristic, Measured Service, means that you only pay for what you use or reserve as you go; if you’re not using resources, you’re not paying.
 Resource usage is monitored, measured, and reported transparently based on utilization.
 
+
+## Module 1.b: Definition & Essential Characteristics of Cloud Computing
+>Cloud computing, also referred to as “the cloud,” is the delivery of on-demand computing resources—everything from applications to data centers—over the internet on a pay-for-use basis.
+
+>To get a common understanding of cloud computing, let’s start with the US National Institute of Standards and Technology (_NIST_’s) definition of cloud computing.
+_NIST_ defines cloud computing as a model for enabling convenient, on-demand network access to a shared pool of configurable computing resources that can be rapidly provisioned and released with minimal management effort or service provider interaction.
+ 
+Examples of computing resources include networks, servers, storage, applications, and services.
+This cloud model is composed of five essential characteristics, three deployment models, and three service models.
+
 ## Module 1.c: History & Evolution of Cloud Computing
 >Cloud computing is an evolution of technology over time.
 
