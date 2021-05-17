@@ -27,11 +27,11 @@ After completing this module, you will be able to:
 *    Create an account on a public cloud platform
 
 Let’s start with understanding the _five_ essential characteristics of the cloud—which include:
-•	on-demand self-service, 
-•	broad network access, 
-•	resource pooling, 
-•	rapid elasticity,
-•	and measured service.
+* _on-demand self-service_, 
+* _broad network access_, 
+* _resource pooling_, 
+* _rapid elasticity_,
+* and measured service_.
 
 1. On-demand Self-service, the 1st characteristic, means that you get access to cloud resources such as the processing power, storage, and network you need, using a  simple interface, without requiring human interaction with each service provider.
 2. The 2nd characteristic, Broad Network Access, means that cloud computing resources can be accessed via the network through standard mechanisms and platforms such as mobile phones, tablets, laptops, and workstations.
