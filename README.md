@@ -16,7 +16,7 @@
 
 >In this module you will learn about the definition and essential characteristics of cloud computing. You will learn about the evolution of cloud computing and the factors that organizations need to consider while creating their cloud strategy. You will become familiar with some key cloud service providers and the services they offer. At the end of the module, you will learn how to create an account on a public cloud platform.
 
-####>Learning Objectives:
+>#### Learning Objectives:
 
 After completing this module, you will be able to:
 
